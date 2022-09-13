@@ -1,4 +1,4 @@
-# Car announcement project
+# Car Dealership project
 ## Description
 For this assignment you will create a program that simulates a car dealership database. The database will maintain records of cars that are on sale. Your program should provide the user (dealer) with a command line choice menu about possible actions that they can perform. The choices should be the following:
 
